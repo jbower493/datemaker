@@ -1,0 +1,12 @@
+{
+  "name": "datemaker",
+  "version": "1.0.0",
+  "description": "Simple date module that gives you the current time and date in local or UTC time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["datemaker", "date"],
+  "author": "Jamie Bower",
+  "license": "ISC"
+}
